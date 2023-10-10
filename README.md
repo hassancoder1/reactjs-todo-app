@@ -9,7 +9,6 @@ This is a simple Todo application built with React.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -45,6 +44,7 @@ Add a new task: Enter the task in the input field and click "Add Task."
 Mark a task as completed: Click on a task to mark it as completed.
 Edit a task: Click the pen icon to edit a task, make the necessary changes, and click "Update."
 Delete a task: Click the trash icon to delete a task.
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
